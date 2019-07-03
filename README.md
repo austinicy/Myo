@@ -1,1 +1,1 @@
-This script provide the Lua script for control Powerpoint. 
+This script provide the Lua script to control Powerpoint. 
